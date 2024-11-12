@@ -2,7 +2,7 @@
 
 **Turn any Starknet action into a shareable, metadata-rich link on Twitter**
 
-![Screenshot at Nov 08 10-11-57.png]([https://i.postimg.cc/7bvN4Qgv/Screenshot-at-Nov-12-13-39-20.png](https://i.postimg.cc/Gmvzzrvk/Screenshot-at-Nov-12-14-06-33.png))
+![Screenshot at Nov 08 10-11-57.png](https://i.postimg.cc/Gmvzzrvk/Screenshot-at-Nov-12-14-06-33.png)
 
 With **Starknet Blinks**, we've developed a feature that converts Starknet-based actions (such as transactions, contract interactions, or layer-2 scaling operations) into easily shareable, metadata-rich links, optimized for platforms like Twitter. These "Blinks" contain essential metadata, including wallet addresses, transaction amounts, timestamps, and contract execution details. When shared on Twitter, these links generate dynamic, informative previews, making it simple for users to engage with Starknet actions directly from their timeline.
 
